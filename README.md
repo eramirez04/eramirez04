@@ -39,6 +39,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://linkedin.com/in/emersson-ramirez-ruiz-38592b288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emersson" height="30" width="40" /></a></a>
+<a href="https://www.facebook.com/profile.php?id=100006943510734" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emersson" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emersson-ramirez-ruiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emersson-ramirez-ruiz" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23260487" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23260487" height="30" width="40" /></a>
 <a href="https://instagram.com/emersson_ramirez11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emersson_ramirez11" height="30" width="40" /></a>
